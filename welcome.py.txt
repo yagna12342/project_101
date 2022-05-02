@@ -1,2 +1,9 @@
 Print("Hi There")
 
+x=0;
+
+if(x==0):
+	print("Your Done")
+else:
+	print("Not Yet Done")
+
